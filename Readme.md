@@ -1,1 +1,1 @@
-# Backend in js
+# Backend in javascript
